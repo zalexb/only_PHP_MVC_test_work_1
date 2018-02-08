@@ -22,8 +22,7 @@
                         </div>
                     </div>
                 </li>
-                <?var_dump(mb_check_encoding($post['content']));
-                }?>
+                <?}?>
             </ul>
         </div>
 
